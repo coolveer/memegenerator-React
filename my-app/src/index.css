@@ -1,0 +1,24 @@
+.img{
+	height: 50vh;
+	width: 60vh;
+}
+.up{
+	 position: absolute;
+  margin-right: auto;
+  margin-left: auto;
+  top: 35px;
+	z-index: +1;
+	font: oblique;
+	font-size: 35px;
+	background-color: white;
+}
+.down{
+		 position: absolute;
+  margin-right: auto;
+  margin-left: auto;
+  top: 270px;
+	z-index: +1;
+	font: oblique;
+	font-size: 35px;
+	background-color: white;
+}
